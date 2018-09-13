@@ -40,5 +40,3 @@ export default class App extends React.Component {
     );
   }
 }
-
-// this is a test
